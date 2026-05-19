@@ -50,3 +50,4 @@ COMMIT: Torna permanentes todas as alterações feitas até o momento.
 SAVEPOINT: Cria um "ponto de restauração" no meio da transação.
 
 ROLLBACK TO [SAVEPOINT]: Desfaz apenas as alterações feitas após o ponto definido, permitindo corrigir erros sem perder todo o trabalho anterior.
+# pilha-fila-dinamica-c
